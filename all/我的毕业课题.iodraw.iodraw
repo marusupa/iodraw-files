@@ -34,8 +34,8 @@
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-19" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;炎症指标LPA分析与特征变量筛选&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-947.5" y="165" width="383.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;临床数据验证&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-542.5" y="165" width="255" height="30" as="geometry" />
+        <mxCell id="QaGjIBuYQu2PU0qPm4_i-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;队列数据动态追踪&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="-472.06" y="165" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-22" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-540" y="357.5" width="20" height="185" as="geometry" />
