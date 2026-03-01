@@ -120,8 +120,8 @@
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-63" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Web端交互式预测程序开发&lt;/font&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-464.56" y="610" width="240" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KQk4PHLSjSwvdbaquQ5O-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;蒙特卡洛五年动态追踪&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="507.5" width="250.87" height="45" as="geometry" />
+        <mxCell id="KQk4PHLSjSwvdbaquQ5O-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;机器学习生存分析预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="550" width="250.87" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
