@@ -92,7 +92,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-51" value="&lt;font style=&quot;font-size: 22px&quot;&gt;NHANES&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 22px&quot;&gt;1999-2018&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-830" y="490" width="266.25" height="70" as="geometry" />
+          <mxGeometry x="-860" y="490" width="306.25" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
