@@ -77,12 +77,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-42" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;xgboost机器学习&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="-680" y="235" width="110" height="247.5" as="geometry" />
+          <mxGeometry x="-680" y="235" width="110" height="75" as="geometry" />
         </mxCell>
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQk4PHLSjSwvdbaquQ5O-35" target="KQk4PHLSjSwvdbaquQ5O-42">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-658" y="433.54" as="sourcePoint" />
             <mxPoint x="-785" y="376.46134831460705" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KQk4PHLSjSwvdbaquQ5O-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-810" y="420" as="sourcePoint" />
+            <mxPoint x="-760" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
