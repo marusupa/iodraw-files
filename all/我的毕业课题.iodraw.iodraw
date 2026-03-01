@@ -79,7 +79,7 @@
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-42" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;MHR，NHR，PHR，NLR&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&lt;b&gt;UHR，NNHR，LHR，MLR&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-660" y="235" width="90" height="247.5" as="geometry" />
         </mxCell>
-        <mxCell id="KQk4PHLSjSwvdbaquQ5O-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="KQk4PHLSjSwvdbaquQ5O-48" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KQk4PHLSjSwvdbaquQ5O-35">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-658" y="433.54" as="sourcePoint" />
             <mxPoint x="-785" y="376.46134831460705" as="targetPoint" />
