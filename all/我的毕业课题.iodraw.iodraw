@@ -32,64 +32,16 @@
           <mxGeometry x="-1180" y="235" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-19" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;CKM预测模型构建&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-736.25" y="165" width="255" height="30" as="geometry" />
+          <mxGeometry x="-881.25" y="165" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-20" value="&lt;font style=&quot;font-size: 24px&quot;&gt;&lt;b&gt;临床数据验证&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-242.5" y="165" width="255" height="30" as="geometry" />
+          <mxGeometry x="-542.5" y="165" width="255" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-22" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=2;fillColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="-550" y="357.5" width="20" height="185" as="geometry" />
         </mxCell>
         <mxCell id="QaGjIBuYQu2PU0qPm4_i-23" value="" style="triangle;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-975" y="357.5" width="20" height="185" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-24" target="QaGjIBuYQu2PU0qPm4_i-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-24" target="QaGjIBuYQu2PU0qPm4_i-29" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-24" target="QaGjIBuYQu2PU0qPm4_i-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-24" target="QaGjIBuYQu2PU0qPm4_i-31" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-24" value="&lt;font style=&quot;font-size: 22px&quot;&gt;验证模型稳定性&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-215" y="315" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-28" target="QaGjIBuYQu2PU0qPm4_i-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-28" value="&lt;font style=&quot;font-size: 22px&quot;&gt;疾病分期&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="425" width="40" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-29" target="QaGjIBuYQu2PU0qPm4_i-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-29" value="&lt;font style=&quot;font-size: 22px&quot;&gt;性别&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="425" width="40" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-30" target="QaGjIBuYQu2PU0qPm4_i-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-30" value="&lt;font style=&quot;font-size: 22px&quot;&gt;年龄&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="425" width="40" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-31" target="QaGjIBuYQu2PU0qPm4_i-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-31" value="&lt;font style=&quot;font-size: 22px&quot;&gt;年龄&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="425" width="40" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" source="QaGjIBuYQu2PU0qPm4_i-36" target="QaGjIBuYQu2PU0qPm4_i-24" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-36" value="&lt;font style=&quot;font-size: 22px&quot;&gt;寮步医院临床数据&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-215" y="227.5" width="180" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="QaGjIBuYQu2PU0qPm4_i-41" value="&lt;font style=&quot;font-size: 22px&quot;&gt;临床实践制定措施&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="-215" y="590" width="180" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
