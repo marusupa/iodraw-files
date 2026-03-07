@@ -102,6 +102,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="6XOLiwiIyNvUgFK55eKw-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KQk4PHLSjSwvdbaquQ5O-58" target="6XOLiwiIyNvUgFK55eKw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-58" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;多分类监督学习&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-470" y="232.5" width="250.87" height="95" as="geometry" />
         </mxCell>
@@ -114,7 +117,10 @@
         <mxCell id="KQk4PHLSjSwvdbaquQ5O-67" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;机器学习生存分析预测&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="-469.99" y="550" width="250.87" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="6XOLiwiIyNvUgFK55eKw-2" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="6XOLiwiIyNvUgFK55eKw-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="6XOLiwiIyNvUgFK55eKw-2" target="KQk4PHLSjSwvdbaquQ5O-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6XOLiwiIyNvUgFK55eKw-2" value="XGBoost" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-464.57" y="347" width="240" height="120" as="geometry">
             <mxRectangle x="-414.55" y="343" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
