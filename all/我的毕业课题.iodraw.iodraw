@@ -131,7 +131,7 @@
         <mxCell id="6XOLiwiIyNvUgFK55eKw-4" value="维持现状" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOLiwiIyNvUgFK55eKw-2">
           <mxGeometry y="60" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="6XOLiwiIyNvUgFK55eKw-5" value="Item 3" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOLiwiIyNvUgFK55eKw-2">
+        <mxCell id="6XOLiwiIyNvUgFK55eKw-5" value="进展状态" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="6XOLiwiIyNvUgFK55eKw-2">
           <mxGeometry y="90" width="240" height="30" as="geometry" />
         </mxCell>
       </root>
